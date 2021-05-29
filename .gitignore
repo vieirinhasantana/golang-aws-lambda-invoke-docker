@@ -1,0 +1,13 @@
+coverage.out
+.idea
+.vscode
+charts/
+app
+!app/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
